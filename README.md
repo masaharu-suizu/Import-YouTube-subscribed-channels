@@ -4,11 +4,11 @@ YouTubeの登録チャンネルを旧カウントから新アカウントへ移�
 
 #  事前準備
 
-1. [Google Cloud Console](https://console.cloud.google.com/apis/credentials) でプロジェクトを作成
-2.「APIとサービス → 有効なAPIとサービス → ライブラリ」で **YouTube Data API v3** を有効化
-3.「認証情報 → 認証情報を作成 → OAuthクライアントID」
+* [Google Cloud Console](https://console.cloud.google.com/apis/credentials) でプロジェクトを作成
+* APIとサービス → 有効なAPIとサービス → ライブラリ」で **YouTube Data API v3** を有効化
+* 認証情報 → 認証情報を作成 → OAuthクライアントID」
    * アプリケーションの種類：「デスクトップアプリ」
-4. 生成された **`credentials.json`** をDownload
+* 生成された **`credentials.json`** をDownload
 
 
 # 手順
