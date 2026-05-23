@@ -14,7 +14,7 @@ YouTubeの登録チャンネルを旧カウントから新アカウントへ移�
 # 手順
 
 ```bash
-$ git clone https://github.com/masaharu-suizu/Import-YouTube-subscribed-channels.git 
+$ git clone https://github.com/{GitHub account}/{repo name}.git Import-YouTube-subscribed-channels
 
 $ cd Import-YouTube-subscribed-channels
 
